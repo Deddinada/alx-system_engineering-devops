@@ -1,0 +1,2 @@
+#!/bin/bash
+studio chown betty hello
